@@ -2,8 +2,8 @@
 
 ### 中国技协城市主产业职业技能（上海）联赛暨全 国网络与信息安全管理员职工职业技能竞赛—线上赛初赛部分题目WP
 
-https://blog.csdn.net/qq_41490561/article/details/134722640
+https://afei00123.blog.csdn.net/article/details/134722640
 
 ### 全国网络与信息安全管理员职工职业技能竞赛线下培训—简单的流量分析WP
 
-https://blog.csdn.net/qq_41490561/article/details/134807690
+https://afei00123.blog.csdn.net/article/details/134807690
